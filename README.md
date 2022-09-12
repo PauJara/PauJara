@@ -1,0 +1,4 @@
+- 👋 Hola, mi nombre es Paulina y actualmente me encuentro estudiando la carrera de Desarrollo y Diseño Web en instituto profesional Duoc UC.
+- 👀 Me interesa mucho el diseño UX/UI, además del desarrollo Front-end
+- 🌱 Aprendiendo JavaScript avanzado
+- 📫 Mi correo es Pjaraulloa@gmail.com
